@@ -5,4 +5,7 @@ public class fixTest {
     public void mergeMasterTest(){
         System.out.println("merge Master Try");
     }
+    public void mergeDeepTestInFixTest(){
+        System.out.println("merge Fix Try");
+    }
 }
